@@ -1,0 +1,51 @@
+.container{
+ max-width:100%;
+}
+header {
+	float: right;
+}
+.logo{
+	width:50%;
+	margin: 0px 480px 0px;
+	padding-top:20%;
+	padding-bottom:10px;
+}
+
+
+a{
+	color: rgba(0,0,0,1);
+	text-decoration: none;
+	margin: 5px;
+}
+form {
+	width:30%;
+	margin: 0px 450px 5px;
+}
+
+.google-button{
+	margin: 0px 60px 120px;
+	padding: 1px;
+	text-align: center;
+	height:32px;
+	font-weight: bold;
+	background-color: rgba(0,0,0,0);
+}
+
+footer {
+	top:10px;
+	bottom:10px;
+	left:10px;
+	padding:15px;
+	background-color: #efefef;
+	text-align: center;
+	margin: 1000px 0px 5px;
+}
+
+.left-side{
+	float: left;
+
+}
+
+.right-side{
+	float: right;
+}
